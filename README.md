@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HughHieuTran
-- 👀 I’m interested in fullstack web with javascript
+- 👀 I’m interested in fullstack web with java and react
 - 📫 How to reach me thien.hieu2299@gmail.com
 
 <!---

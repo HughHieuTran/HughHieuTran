@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HughHieuTran
-- 👀 I’m interested in fullstack web with java and react
+- 👀 I’m interested in microcontroller, web, desktop development 
 - 📫 How to reach me thien.hieu2299@gmail.com
 
 <!---
